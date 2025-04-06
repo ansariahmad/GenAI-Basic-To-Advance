@@ -1,0 +1,6 @@
+llama-index
+llama-index-readers-web
+python-dotenv
+html2text
+llama-index-vector-stores-postgres
+google-generativeai
